@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <br>
+  <a href="https://omerisra6-codepen.onrender.com"><img src="https://cdn-icons-png.flaticon.com/512/4997/4997543.png" alt="Codepan Clone App" width="200"></a>
+  <br>
+  <a href="https://omerisra6-codepen.onrender.com">Codepan Clone App</a>
+  <br>
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center">Codepan Clone App built with <a href="https://react.dev/" target="_blank">React</a>.</h4>
+<p align="center"></p>
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#license">License</a>
+</p>
+<h2 align="center">
+  Screenshot
+  <br>
+  <br>
+  <a href="https://omerisra6-codepen.onrender.com"><img src="https://i.postimg.cc/02j6P6Qr/Screen-Shot-2023-05-10-at-14-41-51.png">
+</h2>
 
-## Available Scripts
 
-In the project directory, you can run:
+## Key Features
 
-### `npm start`
+* Local Storage
+  - Utilizes local storage to save and persist user data, allowing for seamless data retrieval even after browser refresh or closure.
+* Instant Preview Updates
+  - Provides real-time preview updates, allowing users to see the results of their code changes instantly.
+* Adjustable Preview Width and Height
+  - Allows users to dynamically adjust the width and height of the preview area, providing a customizable viewing experience.
+* Adjustable Code Editor Width and Height
+  - Enables users to modify the width and height of each code editor, allowing for a personalized coding environment.
+* User-friendly interface
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## How To Use
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
-### `npm test`
+```bash
+# Clone this repository
+$ git clone https://github.com/Omerisra6/weather-app-react
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Install dependencies
+$ npm install
+  
+# Run the app
+$ npm start
+```
 
-### `npm run build`
+## Credits
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This software uses the following open source packages:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [React](https://react.dev/)
+- [Node.js](https://nodejs.org/)
+- [CodeMirror](https://openweathermap.org/](https://codemirror.net/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+MIT
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+> GitHub [@omerisra6](https://github.com/Omerisra6) &nbsp;&middot;&nbsp;
+> Linkedin [@omerisraeli](https://www.linkedin.com/in/omer-israeli6/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
