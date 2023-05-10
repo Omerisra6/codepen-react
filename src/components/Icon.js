@@ -29,6 +29,8 @@ const StyledIcon = styled.i`
     &:hover {
         color:${ ( { color } ) => colorsMap[ color ].hover };
     }
+
+    cursor: pointer;
 `
 
 StyledIcon.defaultProps = {
