@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://omerisra6-codepen.onrender.com"><img src="https://cdn-icons-png.flaticon.com/512/4997/4997543.png" alt="Codepan Clone App" width="200"></a>
+  <a href="https://omerisra6-codepen.onrender.com"><img src="https://cdn-icons-png.flaticon.com/512/4997/4997543.png" alt="Codepen Clone App" width="200"></a>
   <br>
-  <a href="https://omerisra6-codepen.onrender.com">Codepan Clone App</a>
+  <a href="https://omerisra6-codepen.onrender.com">Codepen Clone App</a>
   <br>
 </h1>
 
-<h4 align="center">Codepan Clone App built with <a href="https://react.dev/" target="_blank">React</a>.</h4>
+<h4 align="center">Codepen Clone App built with <a href="https://react.dev/" target="_blank">React</a>.</h4>
 <p align="center"></p>
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -55,7 +55,7 @@ This software uses the following open source packages:
 
 - [React](https://react.dev/)
 - [Node.js](https://nodejs.org/)
-- [CodeMirror](https://openweathermap.org/](https://codemirror.net/)
+- [CodeMirror](https://codemirror.net/)
 
 
 ## License
